@@ -34,8 +34,7 @@ body{
 
 .page{
     overflow: hidden;
-    display: flex;
-    flex-direction: column;
+    margin: 0 auto;
     background-color: var(--White);
     border-radius: 0.6em;
     width: 100%;
